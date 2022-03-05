@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## ScreenShot
+(https://github.com/batuhanozkose/flutter_landing_page/blob/master/screenshots/1.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
